@@ -7,7 +7,9 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
    Software engineering is a branch of computer science that systematically applies engineering principles, programming, and scientific methods to design, develop, test, and maintain software systems.
--Provision of cybersecurity and data protection- well-engineered softwares provides companies and individuals with strong protection of their privacy and data by putting tight systems in place to avoid cybersecurity threats or breaches.
+   
+-Provision of cybersecurity and data protection- well-engineered softwares provides companies and individuals with strong protection of their privacy and data by putting 
+ tight systems in place to avoid cybersecurity threats or breaches.
 -Improving businesses' operational efficiency through automation of some traditional and manual processes.
 -Reliability and Maintenance- It enables digital tools/products remain functional, updated, and free of critical bugs periodically through scheduling of maintenance checks.
 -Innovation and problem-solving of real-life problems locally and globally in various industries such as healthcare, finance, and many more.
