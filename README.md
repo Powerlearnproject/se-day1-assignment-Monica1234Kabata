@@ -10,14 +10,20 @@ Explain what software engineering is and discuss its importance in the technolog
    
 -Provision of cybersecurity and data protection- well-engineered softwares provides companies and individuals with strong protection of their privacy and data by putting 
  tight systems in place to avoid cybersecurity threats or breaches.
+ 
 -Improving businesses' operational efficiency through automation of some traditional and manual processes.
+
 -Reliability and Maintenance- It enables digital tools/products remain functional, updated, and free of critical bugs periodically through scheduling of maintenance checks.
+
 -Innovation and problem-solving of real-life problems locally and globally in various industries such as healthcare, finance, and many more.
+
 -Scalability and Growth – Well-engineered software allows businesses to scale operations efficiently, handling more users and transactions as they grow.
+
 -Customer reach- it helps businesses develop digital tools that enhance customer reach both locally and globally.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 -Birth of Software Engineering (1968) – The NATO Conference introduced the term software engineering to address the software crisis, emphasizing structured development and engineering principles.
 
 -Rise of Structured Programming (1970s–1980s) – Edsger Dijkstra promoted structured programming to replace chaotic spaghetti code, leading to better software organization with languages like C and Pascal.
