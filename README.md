@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
    Software engineering is a branch of computer science that systematically applies engineering principles, programming, and scientific methods to design, develop, test, and maintain software systems.
    
--Provision of cybersecurity and data protection- well-engineered softwares provides companies and individuals with strong protection of their privacy and data by putting 
+-Provision of cybersecurity and data protection- well-engineered software provides companies and individuals with strong protection of their privacy and data by putting 
  tight systems in place to avoid cybersecurity threats or breaches.
  
 -Improving businesses' operational efficiency through automation of some traditional and manual processes.
